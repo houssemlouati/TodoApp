@@ -1,0 +1,43 @@
+header{
+    background-color: #4696E5;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding:50px;
+}
+h1{
+    font-family: sans-serif;
+    color:white;
+    margin-bottom: 15px;
+    font-size: 50px;
+}
+h4{
+    font-size: 20px;
+    color:white;
+}
+#itemname{
+    width:95%;
+    padding:10px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 30px;
+}
+.btnadd{
+    background-color: inherit;
+    font-weight: bold;
+    font-size: 20px;
+    min-width: 50px;
+    color:white;
+    padding:10px 30px;
+    border-radius: 10px;
+    border-style: solid;
+    margin-top:15px;
+}
+.paragraph{
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 26px;
+margin-top: 50px;
+color:grey;
+font-weight: bold;
+}
